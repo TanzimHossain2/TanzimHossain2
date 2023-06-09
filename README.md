@@ -1,5 +1,7 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Open Source Project<br>🌱 I’m currently learning MERN, Cross-platform app <br>💬 Ask me about Tailwind CSS, javascript, Typescript, Java Swing, C, C++<br>⚡ Fun fact - I am lazy but Smart<br><br><br><br><br><br>
+👯 I’m looking to collaborate on Open Source Project<br>🌱 I’m currently learning MERN, Cross-platform app <br>💬 Ask me about Tailwind CSS, javascript, Typescript, Java Swing, C, C++<br>⚡ Fun fact - I am lazy but Smart<br><br><br><br><br>
+
+[![](https://visitcount.itsvg.in/api?id=tanzimhossain2&icon=8&color=9)](https://visitcount.itsvg.in) <br> <br>
 
 
 ## 🌐 Socials:
@@ -26,6 +28,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tanzimhossain2&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanzimhossain2&icon=8&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

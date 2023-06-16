@@ -27,6 +27,7 @@
       height="40"
     />
   </a>
+  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -108,7 +109,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/Tanzim002/Logo/main/nodejs.jpg"
       alt="nodejs"
       width="40"
       height="40"
@@ -124,7 +125,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://raw.githubusercontent.com/Tanzim002/Logo/main/nextjs.png"
       alt="nextjs"
       width="40"
       height="40"
@@ -167,9 +168,15 @@
       height="40"
     />
   </a>
+  
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/Tanzim002/Logo/main/Notionpng.png" alt="notion" width="40" height="40" style="background:" />
+</a>
+
+
+
 
 </p>
-
 
 
 # 📊 GitHub Stats:

@@ -8,16 +8,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kdptanzim.hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzimhossain2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tanzimhossain2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20340665) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kdp_tanzim) 
 
 # 💻 Tech Stack:
-# 💫 About Me:
-👯 I’m looking to collaborate on Open Source Project<br>🌱 I’m currently learning MERN, Cross-platform app <br>💬 Ask me about Tailwind CSS, javascript, Typescript, Java Swing, C, C++<br>⚡ Fun fact - I am lazy but Smart<br><br><br><br><br>
-
-[![](https://visitcount.itsvg.in/api?id=tanzimhossain2&icon=8&color=9)](https://visitcount.itsvg.in) <br> <br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kdptanzim.hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzimhossain2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tanzimhossain2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20340665) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kdp_tanzim) 
-
-# 💻 Tech Stack:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img

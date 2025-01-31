@@ -1,199 +1,98 @@
-### Hey there, I'm Tanzim Hossain! 👋
-
-🌟 Welcome to my GitHub profile! I'm a passionate learner and aspiring Fullstack Developer with a keen interest in crafting dynamic web and mobile applications. I'm here to share my journey, experiences, and creations with you.
-
-👨‍💻 My Journey So Far:
-- 🚀 Eagerly working towards becoming a well-rounded Fullstack Developer.
-- 🌱 Currently diving deep into the MERN (MongoDB, Express.js, React, Node.js) Stack.
-- 💼 Exploring software architecture to craft scalable and efficient solutions.
-- 💡 Constantly honing my coding skills in various languages, including C, C++, Java, Python, and PHP.
-- 📱 Crafting cross-platform mobile apps with React Native for a seamless user experience.
-- 🔧 Always excited to collaborate and contribute to open-source projects.
-- ⛓️ A strong interest in Blockchain Development and its potential to revolutionize industries.
+### Hi, I'm Tanzim Hossain! 👋
 
 
-<br>📈 Navigating Beyond Code:
-- 💡 Leveraging insights from psychology and liberal arts for creative problem-solving.
-- 🌎 Exploring global markets and stocks through Forex trading.
+🚀 Welcome to my GitHub profile! I'm a backend development and system design enthusiast, continuously learning and improving my skills to build scalable and efficient applications.
 
-<br>📚 Lifelong Learner:
+## 🌟 About Me
 
-- 🌌 Passionate about emerging technologies and their transformative power.
-- 💡 Leveraging insights from psychology and liberal arts for innovative problem-solving.
-- 🔗 Eager to collaborate on open-source projects and contribute to the tech community.
+- 🎯 Focused on mastering **software architecture, microservices, and backend development**.
+- 💻 Experienced in **TypeScript & Java**, currently learning **C++** for deeper understanding.
+- 🏗️ Passionate about **database design, API development, and DevOps**.
+- 🤖 Enthusiastic about **AI, blockchain, and system scalability**.
+- 🏆 Advocate for **clean code, best practices, and high-performance applications**.
+
+## 📈 Beyond Code
+
+- 🔍 Passionate about **emerging technologies** and their transformative power.
+- 🧠 Leveraging insights from **psychology & liberal arts** for creative problem-solving.
+- 📊 Exploring **global markets & stocks** through Forex trading.
+- 🛠️ Eager to **collaborate on open-source projects** and contribute to the tech community.
+- 🔗 Strong interest in **blockchain development** and its potential to revolutionize industries.
+
+---
 
 <div align="center">
-  <p>⚡ Fun fact - I am lazy but Smart</p>
+  <p>⚡ Fun fact - I am lazy but Smart 😎</p>
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=tanzimhossain2&icon=8&color=9)](https://visitcount.itsvg.in) <br> <br>
+
 </div>
 
+## 🌐 Social
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanzimhossain2)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_tanzim_hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzimhossain2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tanzimhossain2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20340665)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kdptanzim.hossain)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kdp_tanzim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzimhossain2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tanzimhossain2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20340665) 
+## 💻 Tech Stack
 
-## 💻 Tech Stack:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
+<p align="center">
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/Tanzim002/Logo/main/nodejs.jpg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Tanzim002/Logo/main/Notionpng.png" alt="notion" width="40" height="40" style="background:" />
-</a>
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,ts,nestjs,spring,react,redux,postgres,mongodb,jest,docker,kubernetes,aws,bash,notion&theme=light)](https://skillicons.dev)
 
 </p>
 
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanzimhossain2&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanzimhossain2&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimhossain2&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+
+<!-- Flex container for GitHub Status and Most Used Languages -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Github Status Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tanzimhossain2&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&show=reviews,prs_merged,prs_merged_percentage" style="max-width: 48%; min-width: 200px; height: 250px;" />
+
+  <!-- Most Used Language Graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimhossain2&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" style="max-width: 48%; min-width: 200px; height: 250px;" />
+
+
+</div>
+
+<!-- Git Contribution Streak Graph -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzimhossain2&theme=blueberry&hide_border=true" style="max-width: 60%; min-width: 300px;" />
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@tanzimhossain2#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzimhossain2&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    <a href="https://wakatime.com/@tanzimhossain2#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzimhossain2&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    
+<p align="center">
+<!-- activity graph heroku-app end -->
+<p align="center">
+<a href="https://wakatime.com/@tanzimhossain2#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzimhossain2&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@tanzimhossain2's wakatime stats"/></a>
+
+<a href="https://wakatime.com/@tanzimhossain2#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzimhossain2&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@tanzimhossain2's wakatime stats"/></a>
+
+<p align="center">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanzimhossain2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
--
 
-
+## ![](https://github-profile-trophy.vercel.app/?username=tanzimhossain2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 ---
 
-
 ✨ Thanks for visiting, and let's innovate and learn together! ✨
-
-
-
